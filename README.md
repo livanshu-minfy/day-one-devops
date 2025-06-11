@@ -21,7 +21,7 @@ create security group -->
 ![Screenshot 2025-06-11 125927](https://github.com/user-attachments/assets/e93260c1-e524-409d-a710-0c24a9b40f2c)
 
 launch ec2 instance -->
-![Screenshot 2025-06-11 132346](https://github.com/user-attachments/assets/b9044f36-8188-4a66-8deb-068bbf6eeefa)
+![Screenshot 2025-06-11 132817](https://github.com/user-attachments/assets/8d3de467-78e9-4a42-a23c-99b9fc61152c)
 
 test -->
 ![Screenshot 2025-06-11 131240](https://github.com/user-attachments/assets/05e19c75-6409-4d01-a985-876f7f42164b)
